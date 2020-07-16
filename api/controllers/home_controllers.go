@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/victorsteven/fullstack/api/responses"
+	"github.com/AlexSwiss/cyza-task/api/responses"
 )
 
 // Home function welcomes us to the api
